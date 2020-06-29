@@ -1,6 +1,6 @@
 # BlueBall
 
-A new Flutter application.
+A new Flutter application helps to save the planet, made for Flutter Hackathon 2020.
 
 ## Getting Started
 
